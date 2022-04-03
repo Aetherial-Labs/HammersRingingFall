@@ -2,8 +2,8 @@
   "profiles": {
     "HammersRingingFall": {
       "commandName": "Executable",
-      "executablePath": "C:\\Users\\Owner\\AppData\\Roaming\\VintageStory\\VS1164\\Vintagestory.exe",
-      "commandLineArgs": "--addModPath=\"C:\\Users\\Owner\\source\\repos\\HammersRingingFall\\HammersRingingFall\\bin\\Debug\" --addOrigin=\"C:\\Users\\Owner\\source\\repos\\HammersRingingFall\\HammersRingingFall\\assets\""
+      "executablePath": "C:\\Users\\CrimsonSkye33\\AppData\\Roaming\\Vintagestory\\Vintagestory.exe",
+      "commandLineArgs": "--addModPath=\"C:\\Users\\CrimsonSkye33\\Desktop\\VS Modding\\repos\\HammersRingingFall\\HammersRingingFall\\bin\\Debug\" -- addOrigin=\"C:\\Users\\CrimsonSkye33\\Desktop\\VS Modding\\repos\\HammersRingingFall\\HammersRingingFall\\assets\""
     }
   }
 }
